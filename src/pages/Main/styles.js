@@ -79,7 +79,7 @@ export const List = styled.ul`
       border-top: 1px solid #eee;
     }
     a {
-      color: #7159c1;
+      color: #ec2919;
       text-decoration: none;
     }
   }
