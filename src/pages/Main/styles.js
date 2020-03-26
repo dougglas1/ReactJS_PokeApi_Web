@@ -66,10 +66,10 @@ export const SubmitButton = styled.button.attrs((props) => ({
 
 export const List = styled.ul`
   list-style: none;
-  margin-top: 30px;
+  margin-top: 20px;
 
   li {
-    padding: 15px 0;
+    padding: 10px 0;
     display: flex;
     flex-direction: row;
     justify-content: space-between;

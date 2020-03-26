@@ -53,11 +53,6 @@ export default class Main extends Component {
         name: response.data.name,
         order: response.data.order,
         image: response.data.sprites.front_default,
-        base_experience: response.data.base_experience,
-        weight: response.data.weight,
-        types: response.data.types,
-        stats: response.data.stats,
-        abilities: response.data.abilities,
       };
 
       this.setState({
